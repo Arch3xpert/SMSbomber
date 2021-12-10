@@ -23,10 +23,10 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 
 # Clone this repo
-git clone https://github.com/AvinashReddy3108/YetAnotherSMSBomber.git
+git clone https://github.com/Arch3xpert/SMSbomber-yet.git
 
 # Move into working directory.
-cd YetAnotherSMSBomber
+cd SMSbomber-yet
 
 # Install the requirements.
 pip3 install -r requirements.txt
@@ -43,10 +43,10 @@ Open Termux and enter the following commands:
 pkg install git python -y
 
 # Clone this repo
-git clone https://github.com/AvinashReddy3108/YetAnotherSMSBomber.git
+git clone https://github.com/Arch3xpert/SMSbomber-yet.git
 
 # Move into working directory.
-cd YetAnotherSMSBomber
+cd SMSbomber-yet
 
 # Install the requirements.
 pip3 install -r requirements.txt
@@ -65,10 +65,10 @@ apk add python3
 apk add py3-pip
 
 # Clone this repo
-git clone https://github.com/AvinashReddy3108/YetAnotherSMSBomber.git
+git clone https://github.com/Arch3xpert/SMSbomber-yet.git
 
 # Move into working directory.
-cd YetAnotherSMSBomber
+cd SMSbomber-yet
 
 # Install the requirements.
 pip3 install -r requirements.txt
@@ -81,10 +81,10 @@ pip3 install -r requirements.txt
 sudo apt install git python3 python3-pip
 
 # Clone this repo
-git clone https://github.com/AvinashReddy3108/YetAnotherSMSBomber.git
+git clone https://github.com/Arch3xpert/SMSbomber-yet.git
 
 # Move into working directory.
-cd YetAnotherSMSBomber
+cd SMSbomber-yet
 
 # Install the requirements.
 pip3 install -r requirements.txt
